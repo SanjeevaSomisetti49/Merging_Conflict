@@ -1,2 +1,6 @@
 Hii 
+<<<<<<< HEAD
 I am modifying in master
+=======
+I am modifying in first branch
+>>>>>>> first
